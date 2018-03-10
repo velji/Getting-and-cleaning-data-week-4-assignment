@@ -1,5 +1,3 @@
-# Getting-and-cleaning-data-week-4-assignment
-
 ---
 title: "codebook"
 output: html_document
